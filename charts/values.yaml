@@ -5,5 +5,5 @@ image:
   repository: dummyroro/go-portfolio
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 15475027741
+  tag: 15481313879
 
